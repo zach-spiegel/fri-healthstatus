@@ -1,0 +1,22 @@
+meta:
+  name: _brand.yml
+
+color:
+  pallete:
+  bing_green: "#005A43"
+  lime_green: "#6CC24A"
+  white: "#FFFFFF"
+  black: "#151515"
+
+  foreground: black
+  background: white
+  primary: bing_green
+  secondary: lime_green
+  
+
+
+typography:
+  fonts:
+    - family: Lato
+      source: google
+  base: Lato
